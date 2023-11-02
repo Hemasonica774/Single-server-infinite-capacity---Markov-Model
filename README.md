@@ -56,6 +56,7 @@ else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("---------------------------------------------------------------")
 ![image](https://github.com/ramjan1729/Single-server-infinite-capacity---Markov-Model/assets/103921593/5f1fd58d-5929-4c51-89ea-4cef009e5bad)
+```
 
 ## Output :
 ![image](https://github.com/Hemasonica774/Single-server-infinite-capacity---Markov-Model/assets/118361409/9fef8351-c551-4096-a62b-67a5c226646f)
